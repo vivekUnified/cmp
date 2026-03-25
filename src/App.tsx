@@ -106,7 +106,7 @@ export default function App() {
             <Shield className="w-6 h-6" />
           </div>
           <div>
-            <h1 className="font-bold text-white text-lg leading-tight">DataSafeguard</h1>
+            <h1 className="font-bold text-white text-lg leading-tight">Unified CMP</h1>
             <p className="text-[10px] font-medium text-indigo-300 tracking-wider uppercase">DPDP Compliant CMP</p>
           </div>
         </div>
