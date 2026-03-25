@@ -1,5 +1,6 @@
 {
   "name": "consent-management-platform",
+  "keywords":"DPDPA, CMP, Consent management, Cookie Management, Cookie Scanning",
   "private": true,
   "version": "0.1.0",
   "type": "module",
